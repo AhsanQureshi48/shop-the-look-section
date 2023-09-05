@@ -48,6 +48,14 @@
         "show_text_below": false
       }
     },
+    "2ad68cea-5cb9-4d2e-aefd-b31325d37d2d": {
+      "type": "image-with-text-two",
+      "settings": {
+        "padding_top": 0,
+        "padding_bottom": 0,
+        "image": "shopify:\/\/shop_images\/Shop_the_look_-_mini_primo_1.webp"
+      }
+    },
     "featured_collection": {
       "type": "featured-collection",
       "settings": {
@@ -115,6 +123,7 @@
   },
   "order": [
     "image_banner",
+    "2ad68cea-5cb9-4d2e-aefd-b31325d37d2d",
     "featured_collection",
     "8163ea78-9be3-4996-8148-8cd208053bc9"
   ]
