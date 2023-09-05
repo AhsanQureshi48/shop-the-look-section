@@ -111,11 +111,17 @@
       ],
       "settings": {
       }
+    },
+    "45d8a495-7113-4b93-a171-cbe22e07137c": {
+      "type": "image-with-text-two",
+      "settings": {
+      }
     }
   },
   "order": [
     "image_banner",
     "featured_collection",
-    "8163ea78-9be3-4996-8148-8cd208053bc9"
+    "8163ea78-9be3-4996-8148-8cd208053bc9",
+    "45d8a495-7113-4b93-a171-cbe22e07137c"
   ]
 }
