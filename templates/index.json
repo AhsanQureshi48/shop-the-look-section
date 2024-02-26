@@ -81,33 +81,19 @@
         "dab6afa5-4d81-438f-8d22-0f8a7a6695f0": {
           "type": "product_slide",
           "settings": {
-            "product": "test-product-4"
+            "product": "test"
           }
         },
         "e428901e-ad63-4400-b662-afdc6de74997": {
           "type": "product_slide",
           "settings": {
-            "product": "test-product-1"
-          }
-        },
-        "e3c6756e-5039-4d14-8795-b1049fa755ab": {
-          "type": "product_slide",
-          "settings": {
-            "product": "test-product-2"
-          }
-        },
-        "d0719d00-cb74-44cc-afe6-27bac4523734": {
-          "type": "product_slide",
-          "settings": {
-            "product": "test-product"
+            "product": "test-two"
           }
         }
       },
       "block_order": [
         "dab6afa5-4d81-438f-8d22-0f8a7a6695f0",
-        "e428901e-ad63-4400-b662-afdc6de74997",
-        "e3c6756e-5039-4d14-8795-b1049fa755ab",
-        "d0719d00-cb74-44cc-afe6-27bac4523734"
+        "e428901e-ad63-4400-b662-afdc6de74997"
       ],
       "settings": {
         "image": "shopify:\/\/shop_images\/Shop_the_look_-_mini_primo_1.webp"
